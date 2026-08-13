@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: reesearch64
+          user: alsgy2001
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo

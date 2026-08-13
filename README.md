@@ -1,36 +1,15 @@
-![Banner](https://i.ytimg.com/vi/SrwMk2JurX0/maxresdefault.jpg)
+# Hey, I'm Alan Guerra (@reesearch64) 👋
 
-<h1 align="center">Hi 👋, I'm ReeseArch64</h1>
+### 🚀 Senior Software Engineer | Microservices | .NET, Angular, TypeScript, Flutter | DDD | TDD | SOLID | Clean Code | AI
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+Senior Software Engineer specializing in scalable distributed systems and high-performance backend architectures. I design and build resilient platforms for rapidly growing products and complex business domains.
 
----
+My core professional stack focuses on **TypeScript**, **.NET**, **Angular**, and **Flutter**, applying **Domain-Driven Design (DDD)** and **SOLID** principles to structure modular, maintainable, and independently deployable microservices. I complement my technical efficiency with automation tools (**Shell Script**, **PowerShell**, **Python**) and bring a solid foundation from legacy systems like **PHP** and **Visual Basic**.
 
-## 🧑‍💻 whoami
-
-* Senior Software Engineer (Frontend + Backend + DevOps)
-* I have worked in the following countries 🇧🇷 🇪🇸 🇫🇮 🇦🇷 🇵🇹
-* Obsessed with **distributed systems** and **AI automation**
-* Linux user since ever (Arch btw 🐧)
+I prioritize reliability, performance, and long-term architectural health through asynchronous communication, event-driven patterns, and modern infrastructure. I treat software quality as a strategic pillar—leveraging **Clean Code**, **TDD/Automated Testing**, and **CI/CD pipelines** for fast and sustainable delivery.
 
 ---
 
 <div align="center">
   <img src="./github-metrics.svg">
 </div>
-
----
-
-```ansi
-> "Talk is cheap. Show me the code."
-       – Linus Torvalds
-```
